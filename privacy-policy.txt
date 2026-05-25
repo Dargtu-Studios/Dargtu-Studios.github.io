@@ -1,0 +1,27 @@
+Privacy Policy for Dargtu PDF Editor
+Last updated: [Insert Date, e.g., May 25, 2026]
+
+Dargtu PDF Editor ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is handled when you use the Dargtu PDF Editor application.
+
+1. Offline-First Functionality
+Dargtu PDF Editor is designed to function entirely offline. All PDF files, document editing, and processing occur locally on your device. We do not collect, store, or transmit any of your personal documents or data to our servers.
+
+2. Third-Party Advertising
+To keep our application free, we use third-party advertising services (e.g., InMobi). These services may require an internet connection to display advertisements.
+
+These third-party providers may automatically collect technical information such as:
+
+Advertising ID (a unique identifier for your device).
+
+IP address.
+
+Usage data related to the advertisements served.
+
+This data is collected directly by the advertising partner and is subject to their own privacy policies. We do not have access to or control over this data.
+
+3. Data We Collect
+We do not collect any personal information (such as your name, email, or physical address) through the app. Our core functionality does not require you to create an account or provide any personal details.
+
+4. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+Email: dargtu.studios@gmail.com
